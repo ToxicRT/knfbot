@@ -36,7 +36,7 @@
     "request-promise-native": "^1.0.7",
     "snekfetch": "^4.0.4",
     "sqlite": "^3.0.3",
-    "sqlite3": "^4.0.8",
+    "sqlite3": "^4.1.0",
     "superagent": "^5.0.5",
     "urban": "^0.3.2",
     "uws": "^100.0.1",
